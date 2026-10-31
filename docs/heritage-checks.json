@@ -1,0 +1,113 @@
+{
+  "320": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 5050,
+    "h": 900,
+    "overflow": false,
+    "w": 358
+  },
+  "375": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 5046,
+    "h": 900,
+    "overflow": false,
+    "w": 375
+  },
+  "390": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 5106,
+    "h": 900,
+    "overflow": false,
+    "w": 389
+  },
+  "768": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 3980,
+    "h": 900,
+    "overflow": false,
+    "w": 769
+  },
+  "1024": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 2989,
+    "h": 900,
+    "overflow": false,
+    "w": 1024
+  },
+  "1920": {
+    "categoryLinks": 6,
+    "decorativeInteractive": false,
+    "dh": 2867,
+    "h": 900,
+    "overflow": false,
+    "w": 1919
+  },
+  "desktop": {
+    "brokenImages": [],
+    "category": {
+      "h": 401.119384765625,
+      "y": 563.2695922851562
+    },
+    "decorativeImages": [
+      {
+        "alt": "",
+        "ariaHidden": "true",
+        "src": "/decorations/floral-corner.svg"
+      },
+      {
+        "alt": "",
+        "ariaHidden": "true",
+        "src": "/decorations/floral-corner.svg"
+      },
+      {
+        "alt": "",
+        "ariaHidden": "true",
+        "src": "/decorations/floral-corner.svg"
+      },
+      {
+        "alt": "",
+        "ariaHidden": "true",
+        "src": "/decorations/floral-corner.svg"
+      },
+      {
+        "alt": "",
+        "ariaHidden": null,
+        "src": "/decorations/heritage-vijayawada.svg"
+      }
+    ],
+    "dh": 2754,
+    "h": 900,
+    "overflow": false,
+    "scroll": 0,
+    "story": 342.6422424316406,
+    "w": 1440
+  },
+  "aboutMobile": {
+    "artworkHidden": "true",
+    "overflow": false,
+    "w": 389
+  },
+  "mobile": {
+    "category": {
+      "h": 763.75927734375,
+      "y": 694.82275390625
+    },
+    "dh": 5106,
+    "h": 843,
+    "overflow": false,
+    "scroll": 0,
+    "w": 389
+  },
+  "layoutComparison": {
+    "desktopCategoryHeightDelta": 0,
+    "desktopCategoryPositionDelta": 0,
+    "mobileCategoryHeightDelta": 0,
+    "mobileCategoryPositionDelta": 0.00000762939453125
+  },
+  "minimumViewportLimit": "Requested 320px; browser minimum reported 358px. Actual widths are recorded instead of claiming a 320px pass."
+}

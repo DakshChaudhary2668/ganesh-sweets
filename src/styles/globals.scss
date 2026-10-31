@@ -51,3 +51,14 @@ h1[tabindex="-1"]:focus { outline: none; }
 @media(max-width:900px) { .footer-grid { grid-template-columns: repeat(2,1fr); } }
 @media(max-width:640px) { .container { width: min(100% - 32px,1360px); } .section-head { display: block; p { margin-top: 18px; } } .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px 20px; } .footer-grid > div:first-child { grid-column: 1 / -1; } .footer-bottom { flex-direction: column; } }
 @media(prefers-reduced-motion:reduce) { html { scroll-behavior: auto; } *,*::before,*::after { animation-duration: .01ms !important; transition-duration: .01ms !important; } }
+
+.footer { padding-top: 30px; background: linear-gradient(120deg,#FCF6EA,#F2E4CD); color: var(--text); border-top: 1px solid #b9945430; }
+.footer-grid { padding-bottom: 26px; gap: 32px; h2 { color: var(--text); margin: 5px 0 14px; letter-spacing: 0; text-transform: none; font-size: 12px; } p,a { color: var(--text); font-size: 12px; line-height: 1.5; } a { margin-bottom: 9px; } }
+.footer-brand { color: var(--maroon); font-family: Georgia,serif; font-size: 25px; }
+.footer-bottom { border-color: #b9945430; color: var(--muted); font-size: 10px; padding-block: 14px; }
+
+.footer { position: relative; isolation: isolate; overflow: hidden; padding-top: clamp(40px,4vw,64px); &::before,&::after { content: ""; position: absolute; z-index: -1; width: 220px; height: 220px; background: url("/decorations/floral-corner.svg") center/contain no-repeat; opacity: .3; pointer-events: none; } &::before { left: -150px; bottom: 0; } &::after { right: -150px; top: 0; } }
+.footer > .container { width: min(calc(100% - 48px),1200px); }
+@media(max-width:780px) { .footer > .container { width: min(calc(100% - 40px),650px); } .footer::before,.footer::after { opacity: .35; } }
+
+.about-heritage { position: relative; isolation: isolate; overflow: hidden; &::before { content: ""; position: absolute; width: 200px; height: 210px; left: -125px; top: 20px; background: url("/decorations/floral-corner.svg") center/contain no-repeat; opacity: .4; pointer-events: none; } > .container { position: relative; z-index: 1; } }

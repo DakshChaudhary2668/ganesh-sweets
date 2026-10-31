@@ -9,7 +9,7 @@ import styles from "./Header.module.scss";
 import WhatsAppIcon from "./WhatsAppIcon";
 
 const links = [
-  ["Home", "/"], ["Sweets", "/products"], ["Gifting", "/#gifting"],
+  ["Home", "/"], ["Sweets", "/products"], ["Home Foods", "/products?category=Home%20Foods"], ["Gifting", "/#gifting"],
   ["Services", "/services"], ["Our Story", "/about"], ["Contact", "/contact"],
 ] as const;
 

@@ -1,9 +1,10 @@
 {
   "meta": {
-    "name": "Ganesh Sweets \u2014 Heritage Editorial",
-    "description": "Approved layout preserved. Visible festive gold gradient across header, hero and categories, strengthened after stakeholder feedback that previous ambience remained off-white. Global brand tokens and imagery remain unchanged.",
+    "name": "Ganesh Sweets — Heritage Editorial",
+    "description": "Latest stakeholder homepage reference: festive hero and category imagery extracted directly from the supplied 1024x1536 composition. Real storefront supplied separately replaces mockup storefront. Newsletter omitted at stakeholder request. Existing catalogue prices, business information, brand palette and golden ambience preserved.",
     "source_references": [
-      "references /reference.png \u2014 supplied homepage screenshot",
+      "references /homepage-reference.png — latest full-homepage composition",
+      "references /reference.png — supplied homepage screenshot",
       "references /Design Ref.png",
       "Stakeholder frozen palette",
       "https://www.ganeshsweets.in/"
@@ -152,7 +153,7 @@
       "font_families": {
         "heading": "Georgia for reference-matched homepage/header; Cormorant Garamond for existing interior pages",
         "body": "DM Sans",
-        "mono": "none \u2014 no code content"
+        "mono": "none — no code content"
       },
       "font_style_notes": "Reference uses a broader, sturdier serif than the initial Cormorant treatment; homepage and wordmark now use Georgia."
     },
@@ -172,13 +173,13 @@
         128
       ],
       "content_density": "spacious",
-      "section_rhythm": "72\u2013132px section padding; tighter product interiors"
+      "section_rhythm": "Main homepage sections: clamp(40px,4vw,64px) equally top and bottom; 40px on phone/tablet. Hero and image banner use corresponding interior spacing."
     },
     "layout": {
       "grid_system": "editorial two-column hero and responsive product grids",
-      "max_content_width": "1200px homepage / 1100px category grid",
+      "max_content_width": "1200px homepage including category grid and footer; 650px at widths780px and below",
       "columns": "compact editorial split hero; six category cards",
-      "gutter": "16\u201324px",
+      "gutter": "16–24px",
       "breakpoints": [
         600,
         780,
@@ -208,7 +209,7 @@
     },
     "iconography": {
       "style": "fine outlined icons and floral linework",
-      "stroke_weight": "1\u20131.5px",
+      "stroke_weight": "1–1.5px",
       "size_scale": [
         16,
         18,
@@ -278,7 +279,7 @@
     "imagery": {
       "photo_treatment": "warm original public-site food images, cropped without distortion",
       "illustration_style": "fine monochrome floral linework",
-      "graphic_elements": "heritage seal and ornamental hairlines",
+      "graphic_elements": "Gold heritage linework repeated at alternating section edges, using the existing motif geometry; cropped and subdued to protect content.",
       "pattern_usage": "one low-opacity floral motif in hero",
       "image_shape": "unframed blended hero; shallow pavilion category silhouette; existing rounded product cards"
     },
@@ -456,9 +457,9 @@
         "animation_method": "none",
         "path_morphing": "none",
         "stroke_animation": "none",
-        "filter_effects": "none"
+        "filter_effects": "static color matrix and SourceAlpha compositing; no blur"
       }
     },
-    "composite_notes": "Existing hero canvas replaced with a broad champagne mesh and restrained antique-gold radial light. Static screenshot does not prove animation; slow movement is a requested enhancement. Photograph, content and layout are preserved. CSS provides mobile, reduced-motion and unavailable-GPU fallback."
+    "composite_notes": "Hero is the exact lossless 554x267 crop of the supplied composition, with CSS edge masks. Storefront uses references /storefront.png. Existing shader and ribbon preserved. No generated replacement hero or storefront was produced. Heritage refinement: supplied floral screenshot reused as a symmetric static edge ornament; supplied architectural screenshot reused at the story and About page. Static SVG color matrices remove paper and tint the original strokes, with no invented landmark labels. Existing shader radial light uses #C69A57 at .12 opacity; no additional shader instance."
   }
 }

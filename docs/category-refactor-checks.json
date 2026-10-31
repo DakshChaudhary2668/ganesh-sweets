@@ -1,0 +1,143 @@
+{
+  "desktop": {
+    "cards": [
+      {
+        "height": 183.89691162109375,
+        "href": "/products?category=Traditional%20Sweets",
+        "name": "Mithai→",
+        "width": 176.6674346923828
+      },
+      {
+        "height": 183.89691162109375,
+        "href": "/products?category=Premium%20Sweets",
+        "name": "Dry Sweets→",
+        "width": 176.6674346923828
+      },
+      {
+        "height": 183.89691162109375,
+        "href": "/products?category=Home%20Foods",
+        "name": "Home Foods→",
+        "width": 176.6674346923828
+      },
+      {
+        "height": 183.89691162109375,
+        "href": "/products?category=Hot%20Snacks",
+        "name": "Savouries→",
+        "width": 176.6674346923828
+      },
+      {
+        "height": 183.89691162109375,
+        "href": "/products?category=Festival%20Specials",
+        "name": "Festival Specials→",
+        "width": 176.6674346923828
+      },
+      {
+        "height": 183.89691162109375,
+        "href": "/services",
+        "name": "Gift Boxes→",
+        "width": 176.67909240722656
+      }
+    ],
+    "grid": "176.667px 176.667px 176.667px 176.667px 176.667px 176.679px",
+    "overflow": false,
+    "section": {
+      "height": 401.119384765625,
+      "y": 563.2695922851562
+    },
+    "width": 1440
+  },
+  "tablet": {
+    "cards": [
+      {
+        "height": 204.39598083496097,
+        "href": "/products?category=Traditional%20Sweets",
+        "name": "Mithai→",
+        "width": 203.3348846435547
+      },
+      {
+        "height": 204.39598083496097,
+        "href": "/products?category=Premium%20Sweets",
+        "name": "Dry Sweets→",
+        "width": 203.3348846435547
+      },
+      {
+        "height": 204.39598083496097,
+        "href": "/products?category=Home%20Foods",
+        "name": "Home Foods→",
+        "width": 203.3348846435547
+      },
+      {
+        "height": 204.39598083496097,
+        "href": "/products?category=Hot%20Snacks",
+        "name": "Savouries→",
+        "width": 203.3348846435547
+      },
+      {
+        "height": 204.39598083496097,
+        "href": "/products?category=Festival%20Specials",
+        "name": "Festival Specials→",
+        "width": 203.3348846435547
+      },
+      {
+        "height": 204.39598083496097,
+        "href": "/services",
+        "name": "Gift Boxes→",
+        "width": 203.3348846435547
+      }
+    ],
+    "grid": "203.335px 203.335px 203.335px",
+    "overflow": false,
+    "section": {
+      "height": 606.005126953125,
+      "y": 775.2331695556641
+    },
+    "width": 769
+  },
+  "mobile": {
+    "cards": [
+      {
+        "height": 176.2826385498047,
+        "href": "/products?category=Traditional%20Sweets",
+        "name": "Mithai→",
+        "width": 166.76771545410156
+      },
+      {
+        "height": 176.2826385498047,
+        "href": "/products?category=Premium%20Sweets",
+        "name": "Dry Sweets→",
+        "width": 166.7793731689453
+      },
+      {
+        "height": 176.2826385498047,
+        "href": "/products?category=Home%20Foods",
+        "name": "Home Foods→",
+        "width": 166.76771545410156
+      },
+      {
+        "height": 176.2826385498047,
+        "href": "/products?category=Hot%20Snacks",
+        "name": "Savouries→",
+        "width": 166.7793731689453
+      },
+      {
+        "height": 176.2826385498047,
+        "href": "/products?category=Festival%20Specials",
+        "name": "Festival Specials→",
+        "width": 166.76771545410156
+      },
+      {
+        "height": 176.2826385498047,
+        "href": "/services",
+        "name": "Gift Boxes→",
+        "width": 166.7793731689453
+      }
+    ],
+    "grid": "166.768px 166.779px",
+    "overflow": false,
+    "section": {
+      "height": 763.75927734375,
+      "y": 694.8227462768555
+    },
+    "width": 389
+  }
+}

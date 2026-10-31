@@ -1,0 +1,141 @@
+{
+  "implementation": "/Users/dakshchaudhary/Developer/Ganesh Sweets /docs/reference-home-desktop.png",
+  "reference": "/Users/dakshchaudhary/Developer/Ganesh Sweets /docs/new-home-reference-colors.json",
+  "measurement": {
+    "k": 8
+  },
+  "entries": [
+    {
+      "specHex": "#fcf5ea",
+      "role": "background",
+      "nearestImageHex": "#f9f3e7",
+      "deltaE": 1.01,
+      "specCoverage": 0.5966,
+      "imageCoverage": 0.6704
+    },
+    {
+      "specHex": "#7a1a1f",
+      "role": "unassigned",
+      "nearestImageHex": "#682625",
+      "deltaE": 13.24,
+      "specCoverage": 0.1442,
+      "imageCoverage": 0.1325
+    },
+    {
+      "specHex": "#ab4e13",
+      "role": "accent",
+      "nearestImageHex": "#93532b",
+      "deltaE": 18.94,
+      "specCoverage": 0.0565,
+      "imageCoverage": 0.0548
+    },
+    {
+      "specHex": "#ecd3b4",
+      "role": "unassigned",
+      "nearestImageHex": "#f0e4ce",
+      "deltaE": 8.87,
+      "specCoverage": 0.049,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#321509",
+      "role": "text",
+      "nearestImageHex": "#2e1409",
+      "deltaE": 2.28,
+      "specCoverage": 0.0465,
+      "imageCoverage": 0.0394
+    },
+    {
+      "specHex": "#e0b077",
+      "role": "unassigned",
+      "nearestImageHex": "#deba87",
+      "deltaE": 7.23,
+      "specCoverage": 0.0428,
+      "imageCoverage": 0.0813
+    },
+    {
+      "specHex": "#e58b1e",
+      "role": "unassigned",
+      "nearestImageHex": "#cc8741",
+      "deltaE": 20.22,
+      "specCoverage": 0.0391,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#987260",
+      "role": "unassigned",
+      "nearestImageHex": "#987e6a",
+      "deltaE": 6.58,
+      "specCoverage": 0.0254,
+      "imageCoverage": 0.0216
+    }
+  ],
+  "implementationClusters": [
+    {
+      "imageHex": "#f9f3e7",
+      "imageCoverage": 0.4697,
+      "nearestSpecHex": "#fcf5ea",
+      "nearestSpecRole": "background",
+      "deltaE": 1.01
+    },
+    {
+      "imageHex": "#f0e4ce",
+      "imageCoverage": 0.2007,
+      "nearestSpecHex": "#fcf5ea",
+      "nearestSpecRole": "background",
+      "deltaE": 8.41
+    },
+    {
+      "imageHex": "#682625",
+      "imageCoverage": 0.1325,
+      "nearestSpecHex": "#7a1a1f",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 13.24
+    },
+    {
+      "imageHex": "#93532b",
+      "imageCoverage": 0.0548,
+      "nearestSpecHex": "#ab4e13",
+      "nearestSpecRole": "accent",
+      "deltaE": 18.94
+    },
+    {
+      "imageHex": "#deba87",
+      "imageCoverage": 0.0442,
+      "nearestSpecHex": "#e0b077",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 7.23
+    },
+    {
+      "imageHex": "#2e1409",
+      "imageCoverage": 0.0394,
+      "nearestSpecHex": "#321509",
+      "nearestSpecRole": "text",
+      "deltaE": 2.28
+    },
+    {
+      "imageHex": "#cc8741",
+      "imageCoverage": 0.0371,
+      "nearestSpecHex": "#e0b077",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 19.74
+    },
+    {
+      "imageHex": "#987e6a",
+      "imageCoverage": 0.0216,
+      "nearestSpecHex": "#987260",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 6.58
+    }
+  ],
+  "meanDeltaE": 6.24,
+  "maxDeltaE": 20.22,
+  "coverageDrift": 0.2247,
+  "thresholds": {
+    "meanDeltaE": 5,
+    "maxDeltaE": 20,
+    "coverageDrift": 0.35,
+    "significantCoverage": 0.005
+  },
+  "pass": false
+}

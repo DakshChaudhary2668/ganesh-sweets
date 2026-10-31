@@ -1,0 +1,227 @@
+{
+  "desktop": {
+    "category": [
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.6674346923828
+      },
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.6674346923828
+      },
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.6674346923828
+      },
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.6674346923828
+      },
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.6674346923828
+      },
+      {
+        "mask": "none",
+        "padding": "8px",
+        "width": 176.67909240722656
+      }
+    ],
+    "overflow": false,
+    "pageHeight": 2719,
+    "sections": [
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "20px",
+        "title": "A legacy of sweetness since 1995"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "57.6119px",
+        "paddingTop": "57.6119px",
+        "title": "Shop by Category"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "57.6119px",
+        "paddingTop": "57.6119px",
+        "title": "Signature sweets"
+      },
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "0px",
+        "title": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "57.6119px",
+        "paddingTop": "57.6119px",
+        "title": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "57.6119px",
+        "paddingTop": "57.6119px",
+        "title": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "width": 1440
+  },
+  "tablet": {
+    "category": [
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.66371154785156
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.66371154785156
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.6753692626953
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.66371154785156
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.66371154785156
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 208.6753692626953
+      }
+    ],
+    "overflow": false,
+    "pageHeight": 3941,
+    "sections": [
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "0px",
+        "title": "A legacy of sweetness since 1995"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Shop by Category"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Signature sweets"
+      },
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "0px",
+        "title": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "width": 769
+  },
+  "mobile": {
+    "category": [
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      },
+      {
+        "mask": "none",
+        "padding": "6px",
+        "width": 108.51212310791016
+      }
+    ],
+    "overflow": false,
+    "pageHeight": 4776,
+    "sections": [
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "0px",
+        "title": "A legacy of sweetness since 1995"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Shop by Category"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Signature sweets"
+      },
+      {
+        "motif": "none",
+        "paddingBottom": "0px",
+        "paddingTop": "0px",
+        "title": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "motif": "url(\"http://127.0.0.1:3001/brand/heritage-pattern.svg\")",
+        "paddingBottom": "40px",
+        "paddingTop": "40px",
+        "title": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "width": 389
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "desktop": {
+    "headings": [
+      {
+        "lineEstimate": 1.999771001885742,
+        "text": "A legacy of sweetness since 1995"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Shop by Category"
+      },
+      {
+        "lineEstimate": 0.9997502244480382,
+        "text": "Signature sweets"
+      },
+      {
+        "lineEstimate": 0.999830350008878,
+        "text": "Kaju Burfi"
+      },
+      {
+        "lineEstimate": 0.999830350008878,
+        "text": "Motichur Laddu"
+      },
+      {
+        "lineEstimate": 0.999830350008878,
+        "text": "Mysore Pak"
+      },
+      {
+        "lineEstimate": 0.999830350008878,
+        "text": "Gulab Jamun"
+      },
+      {
+        "lineEstimate": 2.000213808798062,
+        "text": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "lineEstimate": 2.0000443231491816,
+        "text": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "lineEstimate": 0.9996772534919508,
+        "text": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "height": 900,
+    "links": [
+      {
+        "href": "/products",
+        "text": "Explore Sweets"
+      },
+      {
+        "href": "/about",
+        "text": "Our Story →"
+      },
+      {
+        "href": "/products?category=Traditional%20Sweets",
+        "text": "Mithai→"
+      },
+      {
+        "href": "/products?category=Premium%20Sweets",
+        "text": "Dry Sweets→"
+      },
+      {
+        "href": "/products?category=Home%20Foods",
+        "text": "Home Foods→"
+      },
+      {
+        "href": "/products?category=Hot%20Snacks",
+        "text": "Savouries→"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Festival Specials→"
+      },
+      {
+        "href": "/services",
+        "text": "Gift Boxes→"
+      },
+      {
+        "href": "/products",
+        "text": "View all sweets →"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Kaju%20Burfi%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Motichur%20Laddu%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Mysore%20Pak%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Gulab%20Jamun%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Explore Festival Specials →"
+      },
+      {
+        "href": "/about",
+        "text": "Our Journey →"
+      }
+    ],
+    "missingImages": [],
+    "overflow": false,
+    "pageHeight": 2193,
+    "width": 1440
+  },
+  "tablet": {
+    "headings": [
+      {
+        "lineEstimate": 2.000127191097668,
+        "text": "A legacy of sweetness since 1995"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Shop by Category"
+      },
+      {
+        "lineEstimate": 0.9998635532093696,
+        "text": "Signature sweets"
+      },
+      {
+        "lineEstimate": 0.9996183568781072,
+        "text": "Kaju Burfi"
+      },
+      {
+        "lineEstimate": 0.9996183568781072,
+        "text": "Motichur Laddu"
+      },
+      {
+        "lineEstimate": 0.9996183568781072,
+        "text": "Mysore Pak"
+      },
+      {
+        "lineEstimate": 0.9996183568781072,
+        "text": "Gulab Jamun"
+      },
+      {
+        "lineEstimate": 2.000330894224106,
+        "text": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "lineEstimate": 1.9997667074203491,
+        "text": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "lineEstimate": 1.0001075851333725,
+        "text": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "height": 900,
+    "links": [
+      {
+        "href": "/products",
+        "text": "Explore Sweets"
+      },
+      {
+        "href": "/about",
+        "text": "Our Story →"
+      },
+      {
+        "href": "/products?category=Traditional%20Sweets",
+        "text": "Mithai→"
+      },
+      {
+        "href": "/products?category=Premium%20Sweets",
+        "text": "Dry Sweets→"
+      },
+      {
+        "href": "/products?category=Home%20Foods",
+        "text": "Home Foods→"
+      },
+      {
+        "href": "/products?category=Hot%20Snacks",
+        "text": "Savouries→"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Festival Specials→"
+      },
+      {
+        "href": "/services",
+        "text": "Gift Boxes→"
+      },
+      {
+        "href": "/products",
+        "text": "View all sweets →"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Kaju%20Burfi%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Motichur%20Laddu%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Mysore%20Pak%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Gulab%20Jamun%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Explore Festival Specials →"
+      },
+      {
+        "href": "/about",
+        "text": "Our Journey →"
+      }
+    ],
+    "missingImages": [],
+    "overflow": false,
+    "pageHeight": 3695,
+    "width": 769
+  },
+  "mobile": {
+    "headings": [
+      {
+        "lineEstimate": 1.9991379158169615,
+        "text": "A legacy of sweetness since 1995"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Shop by Category"
+      },
+      {
+        "lineEstimate": 0.9998635532093696,
+        "text": "Signature sweets"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Kaju Burfi"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Motichur Laddu"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Mysore Pak"
+      },
+      {
+        "lineEstimate": 0.999971704450922,
+        "text": "Gulab Jamun"
+      },
+      {
+        "lineEstimate": 2.000330894224106,
+        "text": "Festive Sweetsfor Every Occasion"
+      },
+      {
+        "lineEstimate": 1.9997667074203491,
+        "text": "Rooted in Tradition.Made for Generations."
+      },
+      {
+        "lineEstimate": 1.0001075851333725,
+        "text": "Why Choose Ganesh Sweets"
+      }
+    ],
+    "height": 843,
+    "links": [
+      {
+        "href": "/products",
+        "text": "Explore Sweets"
+      },
+      {
+        "href": "/about",
+        "text": "Our Story →"
+      },
+      {
+        "href": "/products?category=Traditional%20Sweets",
+        "text": "Mithai→"
+      },
+      {
+        "href": "/products?category=Premium%20Sweets",
+        "text": "Dry Sweets→"
+      },
+      {
+        "href": "/products?category=Home%20Foods",
+        "text": "Home Foods→"
+      },
+      {
+        "href": "/products?category=Hot%20Snacks",
+        "text": "Savouries→"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Festival Specials→"
+      },
+      {
+        "href": "/services",
+        "text": "Gift Boxes→"
+      },
+      {
+        "href": "/products",
+        "text": "View all sweets →"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Kaju%20Burfi%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Motichur%20Laddu%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Mysore%20Pak%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "https://wa.me/919985362445?text=Namaste%20Ganesh%20Sweets%2C%20I%20would%20like%20to%20enquire%20about%20Gulab%20Jamun%20(250g).%20Quantity%3A%20%5Bplease%20specify%5D.%20Please%20confirm%20availability%20and%20the%20final%20price.",
+        "text": "Enquire on WhatsApp↗"
+      },
+      {
+        "href": "/products?category=Festival%20Specials",
+        "text": "Explore Festival Specials →"
+      },
+      {
+        "href": "/about",
+        "text": "Our Journey →"
+      }
+    ],
+    "missingImages": [],
+    "overflow": false,
+    "pageHeight": 4475,
+    "width": 389
+  }
+}

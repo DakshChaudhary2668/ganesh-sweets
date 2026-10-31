@@ -9,3 +9,6 @@
 .order { width: 100%; justify-content: space-between; font-size: 12px; border-radius: 12px !important; padding: 9px 10px 9px 15px !important; }
 .orderLabel { display: inline-flex; gap: 9px; align-items: center; }
 @media(max-width:400px) { .titleRow { display: block; strong { display: block; margin-top: 4px; } } }
+
+.compact { border-radius: 16px; .visual { aspect-ratio: 1.9; margin: 6px 6px 0; border-radius: 10px; } .details { padding: 10px 14px 12px; } .category { font-size: 8px; margin-bottom: 5px; } .titleRow { display: block; min-height: 78px; h3 { font: 400 clamp(20px,1.8vw,25px)/1.1 Georgia,serif; margin-bottom: 5px; } strong { display: block; padding: 0; color: var(--text); font-size: 14px; font-weight: 400; } } .packs { margin: 9px 0 12px; gap: 6px; span { padding: 5px 9px; min-width: 42px; min-height: 30px; font-size: 11px; } } .order { font-size: 10px; min-height: 36px; padding: 8px 10px !important; border-radius: 999px !important; justify-content: center; gap: 5px; > span:last-child { display: none; } svg { width: 15px; height: 15px; } .orderLabel { gap: 7px; } } }
+@media(max-width:600px) { .compact { .visual { aspect-ratio: 1.8; } .titleRow h3 { font-size: 27px; } .category { font-size: 10px; } .order { font-size: 12px; min-height: 44px; } .packs span { min-height: 40px; } } }

@@ -60,6 +60,7 @@ const rows: { category: Category; items: [string, number][] }[] = [
 
 const matchedImages: Record<string, string> = {
   "Sanna Boondi Laddu": "/images/laddu.png",
+  "Motichur Laddu": "/images/reference-motichur.webp",
   "Laavu Boondi Laddu": "/images/laddu.png",
   "Madata Kaja": "/images/kaja.png",
   "Kakinada Kaja": "/images/kaja.png",
@@ -82,5 +83,5 @@ export const products: Product[] = rows.flatMap(({ category, items }) =>
   })),
 );
 
-export const featured = ["Kaju Burfi", "Ghee Mysore Pak", "Sanna Boondi Laddu", "Gulab Jamun"]
+export const featured = ["Kaju Burfi", "Motichur Laddu", "Mysore Pak", "Gulab Jamun"]
   .map((name) => products.find((product) => product.name === name)!);

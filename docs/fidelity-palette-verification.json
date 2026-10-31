@@ -1,0 +1,141 @@
+{
+  "implementation": "/Users/dakshchaudhary/Developer/Ganesh Sweets /docs/fidelity-desktop.png",
+  "reference": "/Users/dakshchaudhary/Developer/Ganesh Sweets /docs/design-dna.json",
+  "measurement": {
+    "k": 8
+  },
+  "entries": [
+    {
+      "specHex": "#f7f1e5",
+      "role": "background",
+      "nearestImageHex": "#f7f4ed",
+      "deltaE": 2.94,
+      "specCoverage": 0.6274,
+      "imageCoverage": 0.6907
+    },
+    {
+      "specHex": "#e8d5ba",
+      "role": "unassigned",
+      "nearestImageHex": "#ded6cb",
+      "deltaE": 9.45,
+      "specCoverage": 0.0905,
+      "imageCoverage": 0.0481
+    },
+    {
+      "specHex": "#d4b085",
+      "role": "unassigned",
+      "nearestImageHex": "#c4b8a7",
+      "deltaE": 17.76,
+      "specCoverage": 0.0651,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#772f19",
+      "role": "accent",
+      "nearestImageHex": "#533321",
+      "deltaE": 22.03,
+      "specCoverage": 0.0628,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#a26025",
+      "role": "unassigned",
+      "nearestImageHex": "#6c523c",
+      "deltaE": 31.62,
+      "specCoverage": 0.0514,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#d2913b",
+      "role": "unassigned",
+      "nearestImageHex": "#8a765e",
+      "deltaE": 42.1,
+      "specCoverage": 0.0493,
+      "imageCoverage": 0
+    },
+    {
+      "specHex": "#41190a",
+      "role": "text",
+      "nearestImageHex": "#533321",
+      "deltaE": 11.74,
+      "specCoverage": 0.0271,
+      "imageCoverage": 0.133
+    },
+    {
+      "specHex": "#8d766b",
+      "role": "unassigned",
+      "nearestImageHex": "#8a765e",
+      "deltaE": 7.46,
+      "specCoverage": 0.0262,
+      "imageCoverage": 0.1281
+    }
+  ],
+  "implementationClusters": [
+    {
+      "imageHex": "#f7f4ed",
+      "imageCoverage": 0.6338,
+      "nearestSpecHex": "#f7f1e5",
+      "nearestSpecRole": "background",
+      "deltaE": 2.94
+    },
+    {
+      "imageHex": "#533321",
+      "imageCoverage": 0.0789,
+      "nearestSpecHex": "#41190a",
+      "nearestSpecRole": "text",
+      "deltaE": 11.74
+    },
+    {
+      "imageHex": "#ded6cb",
+      "imageCoverage": 0.0569,
+      "nearestSpecHex": "#f7f1e5",
+      "nearestSpecRole": "background",
+      "deltaE": 9.37
+    },
+    {
+      "imageHex": "#1f1208",
+      "imageCoverage": 0.0541,
+      "nearestSpecHex": "#41190a",
+      "nearestSpecRole": "text",
+      "deltaE": 19.12
+    },
+    {
+      "imageHex": "#c4b8a7",
+      "imageCoverage": 0.0481,
+      "nearestSpecHex": "#e8d5ba",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 12.21
+    },
+    {
+      "imageHex": "#6c523c",
+      "imageCoverage": 0.047,
+      "nearestSpecHex": "#8d766b",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 16.38
+    },
+    {
+      "imageHex": "#a89883",
+      "imageCoverage": 0.0413,
+      "nearestSpecHex": "#8d766b",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 13.63
+    },
+    {
+      "imageHex": "#8a765e",
+      "imageCoverage": 0.0398,
+      "nearestSpecHex": "#8d766b",
+      "nearestSpecRole": "unassigned",
+      "deltaE": 7.46
+    }
+  ],
+  "meanDeltaE": 6.57,
+  "maxDeltaE": 42.1,
+  "coverageDrift": 0.5421,
+  "thresholds": {
+    "meanDeltaE": 5,
+    "maxDeltaE": 20,
+    "coverageDrift": 0.35,
+    "significantCoverage": 0.005
+  },
+  "pass": false
+}

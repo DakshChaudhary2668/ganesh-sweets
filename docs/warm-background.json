@@ -1,0 +1,43 @@
+{
+  "reference": "references /reference.png",
+  "method": "Mean RGB sampled from clear background regions; coordinates are source screenshot pixels.",
+  "samples": {
+    "header": {
+      "region": [
+        170,
+        8,
+        60,
+        18
+      ],
+      "hex": "#F8F3E9"
+    },
+    "hero": {
+      "region": [
+        65,
+        202,
+        180,
+        20
+      ],
+      "hex": "#F8F3E8"
+    },
+    "categories_top": {
+      "region": [
+        230,
+        296,
+        240,
+        10
+      ],
+      "hex": "#F7F0E3"
+    },
+    "categories_bottom": {
+      "region": [
+        230,
+        380,
+        200,
+        5
+      ],
+      "hex": "#F6EEE0"
+    }
+  },
+  "change": "Removed the gray noise overlay and replaced neutral background gradients with the sampled warm colors."
+}

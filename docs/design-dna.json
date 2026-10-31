@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "name": "Ganesh Sweets \u2014 Heritage Editorial",
+    "description": "Approved layout preserved. Visible festive gold gradient across header, hero and categories, strengthened after stakeholder feedback that previous ambience remained off-white. Global brand tokens and imagery remain unchanged.",
+    "source_references": [
+      "references /reference.png \u2014 supplied homepage screenshot",
+      "references /Design Ref.png",
+      "Stakeholder frozen palette",
+      "https://www.ganeshsweets.in/"
+    ],
+    "created_at": "2026-10-31"
+  },
+  "design_system": {
+    "color": {
+      "palette_type": "warm neutrals with maroon and antique gold",
+      "primary": {
+        "hex": "#7A2435",
+        "role": "brand headings and primary actions"
+      },
+      "secondary": {
+        "hex": "#263C32",
+        "role": "footer and focus rings"
+      },
+      "accent": {
+        "hex": "#B99454",
+        "role": "decorative linework and satin light"
+      },
+      "neutral": {
+        "scale": [
+          "#FFFCF7",
+          "#F8F5EE",
+          "#E8DCC8",
+          "#645B55",
+          "#28231F"
+        ],
+        "usage": "light surfaces, muted body text, dark foreground; measured darkest cluster #2b100a reflects reference image foreground"
+      },
+      "semantic": {
+        "success": "#263C32",
+        "warning": "#80642F",
+        "error": "#7A2435",
+        "info": "#263C32"
+      },
+      "surface": {
+        "background": "#F8F5EE",
+        "card": "#FFFCF7",
+        "elevated": "#FFFCF7"
+      },
+      "contrast_strategy": "dark on light; decorative gold darkened to #80642F for small text",
+      "measurement": {
+        "k": 8,
+        "sampling": {
+          "method": "deterministic_stratified",
+          "max_pixels": 160000,
+          "sampled_pixels": 160000
+        }
+      },
+      "measured_palette": [
+        {
+          "hex": "#f7f1e5",
+          "coverage": 0.6274,
+          "role": "background"
+        },
+        {
+          "hex": "#e8d5ba",
+          "coverage": 0.0905,
+          "role": "unassigned"
+        },
+        {
+          "hex": "#d4b085",
+          "coverage": 0.0651,
+          "role": "unassigned"
+        },
+        {
+          "hex": "#772f19",
+          "coverage": 0.0628,
+          "role": "accent"
+        },
+        {
+          "hex": "#a26025",
+          "coverage": 0.0514,
+          "role": "unassigned"
+        },
+        {
+          "hex": "#d2913b",
+          "coverage": 0.0493,
+          "role": "unassigned"
+        },
+        {
+          "hex": "#41190a",
+          "coverage": 0.0271,
+          "role": "text"
+        },
+        {
+          "hex": "#8d766b",
+          "coverage": 0.0262,
+          "role": "unassigned"
+        }
+      ]
+    },
+    "typography": {
+      "type_scale": {
+        "display": {
+          "size": "clamp(42px,4.15vw,60px)",
+          "weight": 400,
+          "line_height": 1.02,
+          "tracking": "-.035em"
+        },
+        "heading_1": {
+          "size": "clamp(56px,6vw,96px)",
+          "weight": 600,
+          "line_height": 0.98,
+          "tracking": "-.045em"
+        },
+        "heading_2": {
+          "size": "clamp(45px,4vw,72px)",
+          "weight": 600,
+          "line_height": 0.98,
+          "tracking": "-.045em"
+        },
+        "heading_3": {
+          "size": "29px",
+          "weight": 600,
+          "line_height": 1.05,
+          "tracking": "normal"
+        },
+        "body": {
+          "size": "16px",
+          "weight": 400,
+          "line_height": 1.8,
+          "tracking": "normal"
+        },
+        "body_small": {
+          "size": "14px",
+          "weight": 400,
+          "line_height": 1.7,
+          "tracking": "normal"
+        },
+        "caption": {
+          "size": "12px",
+          "weight": 500,
+          "line_height": 1.4,
+          "tracking": "normal"
+        },
+        "overline": {
+          "size": "11px",
+          "weight": 700,
+          "line_height": 1.4,
+          "tracking": ".23em"
+        }
+      },
+      "font_families": {
+        "heading": "Georgia for reference-matched homepage/header; Cormorant Garamond for existing interior pages",
+        "body": "DM Sans",
+        "mono": "none \u2014 no code content"
+      },
+      "font_style_notes": "Reference uses a broader, sturdier serif than the initial Cormorant treatment; homepage and wordmark now use Georgia."
+    },
+    "spacing": {
+      "base_unit": "4px",
+      "scale": [
+        4,
+        8,
+        12,
+        16,
+        20,
+        24,
+        32,
+        48,
+        64,
+        96,
+        128
+      ],
+      "content_density": "spacious",
+      "section_rhythm": "72\u2013132px section padding; tighter product interiors"
+    },
+    "layout": {
+      "grid_system": "editorial two-column hero and responsive product grids",
+      "max_content_width": "1200px homepage / 1100px category grid",
+      "columns": "compact editorial split hero; six category cards",
+      "gutter": "16\u201324px",
+      "breakpoints": [
+        600,
+        780,
+        1050,
+        1100
+      ],
+      "alignment_tendency": "shared left alignment for header, headline and trust row; centered category heading"
+    },
+    "shape": {
+      "border_radius": {
+        "small": "10px",
+        "medium": "20px",
+        "large": "none on hero",
+        "pill": "999px"
+      },
+      "border_usage": "subtle 1px warm borders",
+      "divider_style": "fine antique-gold and sand rules"
+    },
+    "elevation": {
+      "shadow_style": "soft diffused",
+      "levels": {
+        "low": "0 4px 16px #28231f04",
+        "medium": "0 16px 40px #28231f0c",
+        "high": "0 24px 48px #40251d17"
+      },
+      "depth_cues": "inset photo edge, hovering cards, overlapping heritage seal"
+    },
+    "iconography": {
+      "style": "fine outlined icons and floral linework",
+      "stroke_weight": "1\u20131.5px",
+      "size_scale": [
+        16,
+        18,
+        24
+      ],
+      "preferred_set": "small inline SVGs"
+    },
+    "motion": {
+      "easing": "cubic-bezier(.22,1,.36,1)",
+      "duration_scale": {
+        "micro": "200ms",
+        "normal": "450ms",
+        "macro": "850ms; intro 2200ms"
+      },
+      "entrance_pattern": "opacity and short vertical translation; slow photo settling",
+      "exit_pattern": "bow loosens, ribbons pull outward, wrapping panels separate",
+      "philosophy": "restrained cinematic, single first-session ceremony"
+    },
+    "components": {
+      "button_style": "maroon pill with inset arrow disc; quiet story link; rounded rectangular product enquiry",
+      "input_style": "warm surface, visible labels, clear focus",
+      "card_style": "20px radius, 8px image inset, 14px image radius",
+      "navigation_pattern": "sticky header, active underline, collapsed mobile navigation",
+      "modal_style": "full viewport ivory introduction with skip control",
+      "list_style": "clean responsive product and service grids",
+      "component_notes": "Hero photo blends into ivory without arch, floating badge or caption. Four compact trust highlights. Verified catalogue categories only."
+    }
+  },
+  "design_style": {
+    "aesthetic": {
+      "mood": [
+        "warm",
+        "calm",
+        "festive",
+        "considered"
+      ],
+      "visual_metaphor": "a carefully wrapped box of traditional sweets",
+      "era_influence": "Indian heritage with contemporary editorial restraint",
+      "genre": "luxury food editorial",
+      "personality_traits": [
+        "welcoming",
+        "confident",
+        "precise"
+      ],
+      "adjectives": [
+        "tactile",
+        "warm",
+        "elegant"
+      ]
+    },
+    "visual_language": {
+      "complexity": "minimal with detailed focal material",
+      "ornamentation": "subtle floral linework",
+      "whitespace_usage": "generous around typography, compact within cards",
+      "visual_weight_distribution": "food and headline dominate",
+      "focal_strategy": "single hero photograph",
+      "contrast_level": "high legibility with soft surface contrast",
+      "texture_usage": "satin weave in intro; food photography provides texture"
+    },
+    "composition": {
+      "hierarchy_method": "type scale and spatial isolation",
+      "balance_type": "asymmetric",
+      "flow_direction": "headline to image to collection",
+      "grouping_strategy": "shared surfaces and consistent gaps",
+      "negative_space_role": "compact editorial rhythm, categories visible directly after trust row"
+    },
+    "imagery": {
+      "photo_treatment": "warm original public-site food images, cropped without distortion",
+      "illustration_style": "fine monochrome floral linework",
+      "graphic_elements": "heritage seal and ornamental hairlines",
+      "pattern_usage": "one low-opacity floral motif in hero",
+      "image_shape": "unframed blended hero; shallow pavilion category silhouette; existing rounded product cards"
+    },
+    "interaction_feel": {
+      "feedback_style": "clear color and lift feedback",
+      "hover_behavior": "small lift and restrained image zoom",
+      "transition_personality": "smooth glide",
+      "loading_style": "skippable satin bow unwrapping",
+      "microinteraction_density": "low"
+    },
+    "brand_voice_in_ui": {
+      "tone": "welcoming and factual",
+      "formality": "conversational",
+      "cta_style": "direct invitation",
+      "empty_state_approach": "helpful plain text and reset option",
+      "error_tone": "specific and calm"
+    }
+  },
+  "visual_effects": {
+    "overview": {
+      "effect_intensity": "subtle-accent",
+      "performance_tier": "medium with isolated WebGPU accents",
+      "fallback_strategy": "CSS satin and radial glow; instant reveal for reduced motion",
+      "primary_technology": "GSAP and official shaders/react"
+    },
+    "background_effects": {
+      "type": "golden aura",
+      "description": "Broad masked champagne light, strongest around upper-right imagery; no photograph distortion",
+      "technology": "shaders/react MeshGradient and RadialGradient with CSS fallback",
+      "params": {
+        "color_palette": [
+          "#FFF5DF",
+          "#F4E5C7",
+          "#B99454"
+        ],
+        "speed": 0.025,
+        "density": 3,
+        "opacity": 0.35,
+        "blend_mode": "normal"
+      }
+    },
+    "particle_systems": {
+      "enabled": false,
+      "type": "none",
+      "description": "not present",
+      "technology": "none",
+      "params": {
+        "count": 0,
+        "shape": "none",
+        "size_range": [
+          0,
+          0
+        ],
+        "movement_pattern": "none",
+        "color_behavior": "none",
+        "interaction": "none",
+        "spawn_area": "none"
+      }
+    },
+    "3d_elements": {
+      "enabled": false,
+      "type": "none",
+      "description": "no 3D models",
+      "technology": "none",
+      "params": {
+        "renderer": "none",
+        "lighting": "none",
+        "camera": "none",
+        "materials": "none",
+        "geometry": "none",
+        "post_processing": "none",
+        "interaction_model": "none"
+      }
+    },
+    "shader_effects": {
+      "enabled": true,
+      "type": "Satin, MeshGradient and RadialGradient",
+      "description": "Satin clipped to bow silhouette; aura begins after intro so canvases do not overlap",
+      "technology": "shaders/react WebGPU",
+      "params": {
+        "uniforms": {
+          "satin_speed": 0.35,
+          "breeze": 0.12,
+          "gloss": 0.22,
+          "mesh_speed": 0.025,
+          "radial_opacity": 0.16
+        },
+        "vertex_manipulation": "none",
+        "fragment_output": "maroon satin and warm gold atmosphere",
+        "noise_type": "library-defined",
+        "distortion": "fold depth .55; no content distortion"
+      }
+    },
+    "scroll_effects": {
+      "parallax": {
+        "enabled": false,
+        "layers": 0,
+        "depth_range": "none",
+        "speed_curve": "none"
+      },
+      "scroll_triggered_animations": {
+        "enabled": true,
+        "trigger_points": "12% visibility",
+        "animation_type": "fade-up",
+        "scrub_behavior": "once on entry"
+      },
+      "scroll_morphing": {
+        "enabled": false,
+        "description": "none"
+      }
+    },
+    "text_effects": {
+      "type": "group entrance",
+      "description": "whole text elements fade up after intro",
+      "technology": "GSAP",
+      "params": {
+        "split_strategy": "by-element",
+        "animation_per_unit": "22px upward reveal",
+        "stagger": 0.09,
+        "effect_style": "opacity and transform"
+      }
+    },
+    "cursor_effects": {
+      "enabled": true,
+      "type": "subtle pointer parallax",
+      "description": "aura and image move a few pixels in the hero",
+      "params": {
+        "shape": "native cursor",
+        "size": "native",
+        "blend_mode": "normal",
+        "trail": "none",
+        "interaction_zone": "desktop hero photograph"
+      }
+    },
+    "image_effects": {
+      "type": "hover-scale",
+      "description": "gentle product image zoom and hero settling",
+      "technology": "CSS and GSAP",
+      "params": {
+        "filter_pipeline": "none",
+        "hover_transform": "scale(1.045)",
+        "reveal_animation": "scale 1.065 to 1",
+        "distortion_type": "none"
+      }
+    },
+    "glassmorphism_neumorphism": {
+      "enabled": false,
+      "style": "none",
+      "params": {
+        "blur_radius": 0,
+        "transparency": 0,
+        "border_treatment": "none",
+        "shadow_type": "none",
+        "light_source_angle": 0
+      }
+    },
+    "canvas_drawings": {
+      "enabled": false,
+      "type": "none",
+      "description": "no Canvas 2D drawing",
+      "technology": "none",
+      "params": {
+        "draw_method": "none",
+        "animation_loop": "none",
+        "color_scheme": "none",
+        "responsiveness": "none",
+        "interaction": "none"
+      }
+    },
+    "svg_animations": {
+      "enabled": false,
+      "type": "none",
+      "description": "SVG motifs and masks are static; parent ribbon transforms use GSAP",
+      "params": {
+        "animation_method": "none",
+        "path_morphing": "none",
+        "stroke_animation": "none",
+        "filter_effects": "none"
+      }
+    },
+    "composite_notes": "Existing hero canvas replaced with a broad champagne mesh and restrained antique-gold radial light. Static screenshot does not prove animation; slow movement is a requested enhancement. Photograph, content and layout are preserved. CSS provides mobile, reduced-motion and unavailable-GPU fallback."
+  }
+}

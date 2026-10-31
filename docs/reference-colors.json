@@ -1,0 +1,58 @@
+{
+  "source": {
+    "file": "Design Ref.png",
+    "width": 1536,
+    "height": 1024
+  },
+  "measurement": {
+    "k": 8,
+    "sampling": {
+      "method": "deterministic_stratified",
+      "max_pixels": 160000,
+      "sampled_pixels": 160000
+    }
+  },
+  "palette": [
+    {
+      "hex": "#f7f1e6",
+      "coverage": 0.6175,
+      "role": "background"
+    },
+    {
+      "hex": "#6a1f1b",
+      "coverage": 0.1104,
+      "role": "accent"
+    },
+    {
+      "hex": "#e6d6bf",
+      "coverage": 0.0607,
+      "role": "unassigned"
+    },
+    {
+      "hex": "#2b100a",
+      "coverage": 0.0544,
+      "role": "text"
+    },
+    {
+      "hex": "#ccab86",
+      "coverage": 0.0475,
+      "role": "unassigned"
+    },
+    {
+      "hex": "#97511b",
+      "coverage": 0.0445,
+      "role": "unassigned"
+    },
+    {
+      "hex": "#d08a35",
+      "coverage": 0.0353,
+      "role": "unassigned"
+    },
+    {
+      "hex": "#886e5c",
+      "coverage": 0.0298,
+      "role": "unassigned"
+    }
+  ],
+  "measured": true
+}

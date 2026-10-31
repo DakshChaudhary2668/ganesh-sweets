@@ -1,0 +1,42 @@
+[
+  {
+    "requested": 320,
+    "scrollWidth": 358,
+    "width": 358
+  },
+  {
+    "requested": 375,
+    "scrollWidth": 375,
+    "width": 375
+  },
+  {
+    "requested": 390,
+    "scrollWidth": 389,
+    "width": 389
+  },
+  {
+    "requested": 430,
+    "scrollWidth": 430,
+    "width": 430
+  },
+  {
+    "requested": 768,
+    "scrollWidth": 769,
+    "width": 769
+  },
+  {
+    "requested": 1024,
+    "scrollWidth": 1024,
+    "width": 1024
+  },
+  {
+    "requested": 1440,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "requested": 1920,
+    "scrollWidth": 1919,
+    "width": 1919
+  }
+]

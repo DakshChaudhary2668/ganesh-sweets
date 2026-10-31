@@ -1,0 +1,36 @@
+{
+  "implementation": "/tmp/ganesh-rendered-bg.png",
+  "reference": "/tmp/ganesh-background-measurement.json",
+  "measurement": {
+    "k": 8
+  },
+  "entries": [
+    {
+      "specHex": "#f8f3e9",
+      "role": "background",
+      "nearestImageHex": "#f7f3ea",
+      "deltaE": 0.63,
+      "specCoverage": 1,
+      "imageCoverage": 1
+    }
+  ],
+  "implementationClusters": [
+    {
+      "imageHex": "#f7f3ea",
+      "imageCoverage": 1,
+      "nearestSpecHex": "#f8f3e9",
+      "nearestSpecRole": "background",
+      "deltaE": 0.63
+    }
+  ],
+  "meanDeltaE": 0.63,
+  "maxDeltaE": 0.63,
+  "coverageDrift": 0,
+  "thresholds": {
+    "meanDeltaE": 5,
+    "maxDeltaE": 20,
+    "coverageDrift": 0.35,
+    "significantCoverage": 0.005
+  },
+  "pass": true
+}

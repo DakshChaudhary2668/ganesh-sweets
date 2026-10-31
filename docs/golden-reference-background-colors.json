@@ -1,0 +1,23 @@
+{
+  "source": {
+    "file": "golden-reference-bg.png",
+    "width": 180,
+    "height": 20
+  },
+  "measurement": {
+    "k": 8,
+    "sampling": {
+      "method": "deterministic_stratified",
+      "max_pixels": 160000,
+      "sampled_pixels": 3600
+    }
+  },
+  "palette": [
+    {
+      "hex": "#f8f3e8",
+      "coverage": 1,
+      "role": "background"
+    }
+  ],
+  "measured": true
+}

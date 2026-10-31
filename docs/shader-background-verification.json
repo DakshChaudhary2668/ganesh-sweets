@@ -1,0 +1,36 @@
+{
+  "implementation": "/tmp/shader-background.png",
+  "reference": "docs/golden-reference-background-colors.json",
+  "measurement": {
+    "k": 8
+  },
+  "entries": [
+    {
+      "specHex": "#f8f3e8",
+      "role": "background",
+      "nearestImageHex": "#f7f3ea",
+      "deltaE": 1.08,
+      "specCoverage": 1,
+      "imageCoverage": 1
+    }
+  ],
+  "implementationClusters": [
+    {
+      "imageHex": "#f7f3ea",
+      "imageCoverage": 1,
+      "nearestSpecHex": "#f8f3e8",
+      "nearestSpecRole": "background",
+      "deltaE": 1.08
+    }
+  ],
+  "meanDeltaE": 1.08,
+  "maxDeltaE": 1.08,
+  "coverageDrift": 0,
+  "thresholds": {
+    "meanDeltaE": 5,
+    "maxDeltaE": 20,
+    "coverageDrift": 0.35,
+    "significantCoverage": 0.005
+  },
+  "pass": true
+}
